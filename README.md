@@ -31,7 +31,7 @@ This project provides a utility to convert Excel files into JSON format.
 1. Place your Excel file in the project directory (./data/input/) .
 2. Run the script:
     ```bash
-    python convert.py input_file.xlsx output_file.json
+    python app.py
     ```
 
 ## License
