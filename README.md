@@ -17,7 +17,7 @@ This project provides a utility to convert Excel files into JSON format.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/convert-excel-to-json.git
+    git clone https://github.com/HNEhsan/convert-excel-to-json.git
     cd convert-excel-to-json
     ```
 
